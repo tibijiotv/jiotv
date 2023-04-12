@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <a href="" height="60" width="60"></a>
+  <a href="https://github.com/tibijiotv/jiotv/blob/main/icon.png" height="60" width="60"></a>
   <br>
 Welcome To Tibi
   <br>
@@ -11,11 +11,11 @@ Welcome To Tibi
 
 ## repository.tobalan-2.0.1
 
-[**DOWNLOAD**]() the `.zip` file.
+[**DOWNLOAD**](https://github.com/tibijiotv/jiotv/blob/main/repository.tobalan-2.0.1.zip) the `.zip` file.
 
 ## plugin.video.jiotv-2.0.25
 
-[**DOWNLOAD**]() the `.zip` file.
+[**DOWNLOAD**](https://github.com/tibijiotv/jiotv/blob/main/plugin.video.jiotv-2.0.25.zip) the `.zip` file.
 <br/>
 <br/>
 <br/>
