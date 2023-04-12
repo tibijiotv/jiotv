@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  <a href="https://github.com/tibijiotv/jiotv/blob/main/icon.png" height="60" width="60"></a>
+  <a href="https://github.com/tibijiotv/jiotv/blob/main/icon2.png" height="60" width="60"></a>
   <br>
 Welcome To Tibi
   <br>
